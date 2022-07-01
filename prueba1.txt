@@ -1,3 +1,3 @@
 Estoy probando modificando con comandos linux
-Estoy probando una segunda modificacion, modificacion
+Estoy probando una segunda modificacion, modificacion, merge rama1
 Tercer cambio
