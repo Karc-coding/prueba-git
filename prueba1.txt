@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Estoy probando modificando con comandos linux, nuevo cambio
 Estoy probando una segunda modificacion, modificacion, linea de conflicto master
 Tercer cambio
